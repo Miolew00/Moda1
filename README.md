@@ -16,6 +16,9 @@ namespace ConsoleApp5
                 .First()
                 .Key;
 
+               Console.WriteLine(mode);
+
+
         }
     }
 }
